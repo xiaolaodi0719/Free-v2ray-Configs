@@ -1,0 +1,98 @@
+name: Sync My Subscription
+
+on:
+schedule:
+# 每小时检查一次
+- cron: "0 * * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+sync:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+    with:
+      fetch-depth: 1
+
+  - name: Download my subscription
+    run: |
+      set -e
+
+      mkdir -p data
+
+      BASE="https://raw.githubusercontent.com/xiaolaodi0719/Free-v2ray-Configs/main"
+
+      echo "Downloading verified subscription..."
+
+      curl -fL "$BASE/verified/clash.yaml" \
+        -o data/clash.yaml
+
+      curl -fL "$BASE/verified/configs.txt" \
+        -o data/subscribe.txt
+
+      curl -fL "$BASE/verified/configs_base64.txt" \
+        -o data/subscribe_base64.txt
+
+      curl -fL "$BASE/top100.txt" \
+        -o data/proxies.txt
+
+      echo "Download completed."
+
+  - name: Generate metadata
+    run: |
+      python - <<'PY'
+      import json
+      from datetime import datetime, timezone
+      from pathlib import Path
+
+      data_dir = Path("data")
+
+      files = {
+          "clash": "clash.yaml",
+          "subscribe": "subscribe.txt",
+          "subscribe_base64": "subscribe_base64.txt",
+          "proxies": "proxies.txt",
+      }
+
+      result = {
+          "updated_at": datetime.now(timezone.utc).isoformat(),
+          "source": "xiaolaodi0719/Free-v2ray-Configs",
+          "source_base": "https://raw.githubusercontent.com/xiaolaodi0719/Free-v2ray-Configs/main",
+          "files": {}
+      }
+
+      for name, filename in files.items():
+          path = data_dir / filename
+
+          if path.exists():
+              result["files"][name] = {
+                  "file": filename,
+                  "url": f"https://raw.githubusercontent.com/xiaolaodi0719/FreeProxyHub/main/data/{filename}",
+                  "size": path.stat().st_size
+              }
+
+      with open(data_dir / "meta.json", "w", encoding="utf-8") as f:
+          json.dump(result, f, ensure_ascii=False, indent=2)
+
+      print(json.dumps(result, ensure_ascii=False, indent=2))
+      PY
+
+  - name: Commit changes
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add data/
+
+      if git diff --cached --quiet; then
+        echo "No changes."
+        exit 0
+      fi
+
+      git commit -m "chore: sync subscription"
+      git push
