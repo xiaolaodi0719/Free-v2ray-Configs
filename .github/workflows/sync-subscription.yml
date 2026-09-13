@@ -1,5 +1,3 @@
-name: Sync My Subscription
-
 on:
 schedule:
 # 每小时检查一次
