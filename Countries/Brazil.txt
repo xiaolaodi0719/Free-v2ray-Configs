@@ -1,11 +1,10 @@
-#profile-title: @Raydikalx — IRELAND (IE)
+#profile-title: @Raydikalx — BRAZIL (BR)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — IRELAND (IE) — 2 configs
+# @Raydikalx — BRAZIL (BR) — 1 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE 🇮🇪 | @Raydikalx | F54D95
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?type=tcp&security=tls&sni=ir-new.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#IE 🇮🇪 | @Raydikalx | 8D3709
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA==@216.128.168.190:8388#BR 🇧🇷 | @Raydikalx | F5A15A
