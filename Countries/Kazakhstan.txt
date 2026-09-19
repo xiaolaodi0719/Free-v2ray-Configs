@@ -3,13 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — KAZAKHSTAN (KZ) — 6 configs
+# @Raydikalx — KAZAKHSTAN (KZ) — 7 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=%2Fproxyip%3D172.86.93.55%2C194.99.20.245%2C46.101.165.85%2C46.101.181.132%2C209.38.201.199%2C165.22.89.207%2C207.154.242.240%2C64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#KZ 🇰🇿 | @Raydikalx | 1830CB
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&type=tcp&allowInsecure=1&sni=yahoo.com&fp=chrome&sid=fa&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo#KZ 🇰🇿 | @Raydikalx | 4018AD
-vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&sid=e5f6a1b2&type=grpc&authority=&serviceName=snob-grpc-de&mode=gun#KZ 🇰🇿 | @Raydikalx | 3E58E2
-vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?security=reality&encryption=none&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&fp=chrome&type=grpc&serviceName=snob-grpc-de&sni=maps.apple.com&sid=e5f6a1b2#KZ 🇰🇿 | @Raydikalx | 77180F
+vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.109:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=%2Fproxyip%3Dus.xiabibi.cf#KZ 🇰🇿 | @Raydikalx | DDC441
+vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.137:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#KZ 🇰🇿 | @Raydikalx | 71DACB
+vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#KZ 🇰🇿 | @Raydikalx | 7FA532
+vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.36:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#KZ 🇰🇿 | @Raydikalx | 52F482
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=fa&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo#KZ 🇰🇿 | @Raydikalx | 4018AD
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#KZ 🇰🇿 | @Raydikalx | 47B4AC
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&type=tcp&allowInsecure=1&sni=yahoo.com&fp=chrome&sid=2001&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM#KZ 🇰🇿 | @Raydikalx | 3D4B18
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&sni=yahoo.com#KZ 🇰🇿 | @Raydikalx | 620A80

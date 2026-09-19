@@ -1,10 +1,10 @@
-#profile-title: @Raydikalx — ROMANIA (RO)
+#profile-title: @Raydikalx — MONTENEGRO (ME)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — ROMANIA (RO) — 1 configs
+# @Raydikalx — MONTENEGRO (ME) — 1 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#RO 🇷🇴 | @Raydikalx | 3B4C39
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@147.90.26.37:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#ME 🇲🇪 | @Raydikalx | 2C1CC4
