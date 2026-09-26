@@ -7,4 +7,4 @@
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+vless://442581ff-646e-4e99-af3e-a9d9a636a44b@freeman.curtvip.ir:20410?encryption=none&type=tcp&security=reality&sni=secureconnect-pa.mtls.clients6.google.com&fp=chrome&pbk=BErODvy5h6Cjw5zWfX_CZ5ODH9p1XbZwU-ZEHyVXEGI&sid=e2ce3e050232978c&allowInsecure=1#IR 🇮🇷 | @Raydikalx | CEB734
