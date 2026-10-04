@@ -3,16 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — TURKEY (TR) — 9 configs
+# @Raydikalx — TURKEY (TR) — 5 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#TR 🇹🇷 | @Raydikalx | 52785D
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&encryption=none&headerType=none&type=tcp#TR 🇹🇷 | @Raydikalx | 8D0DFC
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@107.161.174.96:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=partaa2.api3-max.ru#TR 🇹🇷 | @Raydikalx | DEC5B1
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#TR 🇹🇷 | @Raydikalx | 852826
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@partaa2.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=partaa2.api3-max.ru#TR 🇹🇷 | @Raydikalx | F28066
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@partaa2.api3-max.ru:443?security=tls&encryption=none&sni=partaa2.api3-max.ru&alpn=http/1.1%2Ch2&fp=firefox&flow=xtls-rprx-vision#TR 🇹🇷 | @Raydikalx | 5F05F3
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@partaa2.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=partaa2.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision#TR 🇹🇷 | @Raydikalx | 0094BB
-vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@158.94.216.50:32306?security=reality&encryption=none&pbk=5iqitmx5fd71pubTxlrX0sd-ei7palcgVL7vtKToJGA&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=61614f026070554f#TR 🇹🇷 | @Raydikalx | 642513
-vless://12af43c3-84b4-4248-878b-b75f35835487@45.74.159.233:56659?security=reality&encryption=none&pbk=qLggZ7qospn6X7UEO1zSoohNXK4Y1EX7Hx2sJeWfvw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=9aa3a3f599f3d5d0#TR 🇹🇷 | @Raydikalx | CCBB2E
+vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@tutaim.azad0namah.ir:8080?security=none&type=tcp&encryption=none#TR 🇹🇷 | @Raydikalx | 6DEC99
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@81.177.215.175:443?flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=github.com&type=tcp#TR 🇹🇷 | @Raydikalx | 9573AE
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#TR 🇹🇷 | @Raydikalx | C33205
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#TR 🇹🇷 | @Raydikalx | 9D9693
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@86.38.214.7:8443?&security=tls&fp=chrome&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2#TR 🇹🇷 | @Raydikalx | 246F01

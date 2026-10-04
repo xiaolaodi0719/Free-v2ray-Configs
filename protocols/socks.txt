@@ -1,0 +1,10 @@
+#profile-title: @Raydikalx — SOCKS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — socks — 4 configs
+socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#NL 🇳🇱 | @Raydikalx | 6C148C
+socks://dXhzdm5hb2c6Z3dtYmVnY3B0MnY1@3.36.26.231:29631#KR 🇰🇷 | @Raydikalx | DCCDFC
+socks://Og%3D%3D@129.153.11.56:1080#US 🇺🇸 | @Raydikalx | 442553
+socks://Og%3D%3D@144.24.111.128:1088#IN 🇮🇳 | @Raydikalx | 1369B4
