@@ -1,0 +1,11 @@
+#profile-title: @Raydikalx — MONTENEGRO (ME)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — MONTENEGRO (ME) — 2 configs
+# source: verified/ — every config passed a real proxied request in ALL L3 rounds
+# location: GeoIP (DB-IP Country Lite) on the real network address of the server
+# note: this is where the SERVER is, not necessarily where your traffic exits
+trojan://humanity@31.57.190.34:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#ME 🇲🇪 | @Raydikalx | 1DAA3F
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.89:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fws&host=a.cwvps.eu.org#ME 🇲🇪 | @Raydikalx | D606CB
