@@ -1,0 +1,11 @@
+#profile-title: @Raydikalx — BRAZIL (BR)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — BRAZIL (BR) — 2 configs
+# source: verified/ — every config passed a real proxied request in ALL L3 rounds
+# location: GeoIP (DB-IP Country Lite) on the real network address of the server
+# note: this is where the SERVER is, not necessarily where your traffic exits
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?type=tcp&headerType=none&security=tls&encryption=none&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR 🇧🇷 | @Raydikalx | C8B193
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp#BR 🇧🇷 | @Raydikalx | BE7C66

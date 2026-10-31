@@ -3,17 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — SPAIN (ES) — 10 configs
+# @Raydikalx — SPAIN (ES) — 9 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?security=reality&encryption=none&pbk=ga1wUMMknP4pwJfUNOOvD9I35XV4q3c73byXPYbRxBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=109657bb2dbe99#ES 🇪🇸 | @Raydikalx | 685BCA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#ES 🇪🇸 | @Raydikalx | 1594F5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#ES 🇪🇸 | @Raydikalx | 5524DB
-vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&fp=chrome&security=reality&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&sid=29e8dcd2b37aaa7f&packetEncoding=xudp#ES 🇪🇸 | @Raydikalx | 88827A
-trojan://humanity@213.182.199.137:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&type=ws&host=www.pleadcourt.org&path=%2Fassignment#ES 🇪🇸 | @Raydikalx | 8FF61D
-trojan://humanity@213.182.199.137:443?fp=chrome&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#ES 🇪🇸 | @Raydikalx | 08EC84
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&fp=chrome&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#ES 🇪🇸 | @Raydikalx | E06463
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | EF4486
-trojan://humanity@212.227.144.37:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | CE7F70
-trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#ES 🇪🇸 | @Raydikalx | 62CA78
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#ES 🇪🇸 | @Raydikalx | 2A8C03
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.198.55.200:25152?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZIZIfEd-cs4jAgYIav5ZAkfWaqvpG8DQP-SH6xhGDmc&sid=08c379434f36cdbe&sni=www.samsung.com#ES 🇪🇸 | @Raydikalx | BCF592
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.198.55.200:25150?type=tcp&security=reality&fp=firefox&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&sid=4301a484cc762aa6&sni=www.samsung.com#ES 🇪🇸 | @Raydikalx | 6BCDEC
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&type=tcp&headerType=none#ES 🇪🇸 | @Raydikalx | 2FD6B5
+trojan://humanity@212.227.90.142:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | 98638A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#ES 🇪🇸 | @Raydikalx | 257A25
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com&type=tcp#ES 🇪🇸 | @Raydikalx | FA4837
+trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#ES 🇪🇸 | @Raydikalx | BA5F0D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&sni=courses.discovergreatjobsandadvanceyourcareer.com&type=tcp#ES 🇪🇸 | @Raydikalx | 2712B5

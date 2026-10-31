@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — THAILAND (TH) — 1 configs
+# @Raydikalx — THAILAND (TH) — 4 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwb3J0IjoiNDk2NjciLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDEyRTcyQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&sni=th001.zestapp778.com&type=tcp&headerType=none#TH 🇹🇭 | @Raydikalx | 093A6B
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=3c032a7e&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&encryption=none#TH 🇹🇭 | @Raydikalx | FCA7D1
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?&security=reality&flow=xtls-rprx-vision&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#TH 🇹🇭 | @Raydikalx | 04F231
+trojan://humanity@103.224.84.7:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#TH 🇹🇭 | @Raydikalx | 143794

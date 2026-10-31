@@ -3,9 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — PORTUGAL (PT) — 2 configs
+# @Raydikalx — PORTUGAL (PT) — 7 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@171.22.129.56:2083?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&sni=swe-one.quiet-rogue.site#PT 🇵🇹 | @Raydikalx | B8B863
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@171.22.129.56:2083?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=swe-one.quiet-rogue.site&fp=edge&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081#PT 🇵🇹 | @Raydikalx | 8C7F67
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443?&security=reality&flow=xtls-rprx-vision&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#PT 🇵🇹 | @Raydikalx | 4E4F5D
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.222:8443?&security=reality&flow=xtls-rprx-vision&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#PT 🇵🇹 | @Raydikalx | 0DBF35
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#PT 🇵🇹 | @Raydikalx | DC60C3
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.222:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&encryption=none#PT 🇵🇹 | @Raydikalx | 4E494F
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.220:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#PT 🇵🇹 | @Raydikalx | 6EF3E1
+vless://e3e0e1c3-599e-4ae1-8ad4-d9e90effacc4@198.16.113.219:8443?&security=reality&flow=xtls-rprx-vision&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#PT 🇵🇹 | @Raydikalx | 0E4F16
+trojan://humanity@195.133.92.71:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#PT 🇵🇹 | @Raydikalx | A9A566

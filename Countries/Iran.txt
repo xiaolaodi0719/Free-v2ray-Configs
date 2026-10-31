@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — IRAN (IR) — 1 configs
+# @Raydikalx — IRAN (IR) — 5 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+vless://e1841ecb-ba81-4d21-b403-ff98c38d8017@mojigr.fusetea.ir:1102?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=r753xovnUQvFw0toamiB3UsmgR33o8SXswOK_HrKrmU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=886cff912766c2d1#IR 🇮🇷 | @Raydikalx | 456575
+vless://c55cfa40-55f7-4715-aab3-764219b88517@01-far.nimhub.ir:777?mode=stream-up&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.Prb0-9IEfoUFk-5WSt6awUijoEKFiWmrZ34AAWjr4ig&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D&host=myket.ir&type=xhttp#IR 🇮🇷 | @Raydikalx | 7CF9FE
+vmess://eyJ2IjoiMiIsInBzIjoiSVIg8J+HrvCfh7cgfCBAUmF5ZGlrYWx4IHwgQ0ZCRTQ3IiwiYWRkIjoiOTIuNDIuMjAzLjI0MCIsInBvcnQiOiIyMDUyIiwiaWQiOiI2YTlkNGMwYi05MzhhLTRiNTgtOTExZC1lM2NhNDVkMTdhYjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vless://c55cfa40-55f7-4715-aab3-764219b88517@nimhubuk.nimhubnet.ir:1021?mode=stream-up&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.PIWaOJdIzHzBMDS5WQ-gbOhAl-YKCfqzf1hvLzRcL3Y&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D&host=myket.ir&type=xhttp#IR 🇮🇷 | @Raydikalx | 9095AD
+vless://c48e6b5c-dea1-49da-9b17-4b8a469086a1@mojif.fusetea.ir:1080?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=u3EnhSlPtnsjoA4OQwRa8Pk5mQCnBXHYWSP1bfdjYm8&fp=chrome&type=xhttp&sni=www.aparat.com&sid=a17c76d6a2f35aaf#IR 🇮🇷 | @Raydikalx | 87596B
