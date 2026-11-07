@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — THAILAND (TH) — 1 configs
+# @Raydikalx — THAILAND (TH) — 4 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwb3J0IjoiNDk2NjciLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDEyRTcyQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJ2IjpudWxsLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOjM3NTE1LCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiJ9
+trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#TH 🇹🇭 | @Raydikalx | 324DD7
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?sni=th001.zestapp778.com#TH 🇹🇭 | @Raydikalx | 5B2CEE
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&sni=th001.zestapp778.com#TH 🇹🇭 | @Raydikalx | 093A6B

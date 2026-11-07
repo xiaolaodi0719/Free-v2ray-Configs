@@ -7,8 +7,8 @@
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#IN 🇮🇳 | @Raydikalx | 3CE32C
-vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&sid=84fc&sni=deepl.com#IN 🇮🇳 | @Raydikalx | 86C683
-vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#IN 🇮🇳 | @Raydikalx | 0A66AE
-vmess://eyJ2IjoiMiIsInBzIjoiSU4g8J+HrvCfh7MgfCBAUmF5ZGlrYWx4IHwgMDBFNDQzIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIn0=
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#IN 🇮🇳 | @Raydikalx | 550CAF
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@107.181.139.144:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&sid=df7b054cfc29800c&sni=in1.japancase.site#IN 🇮🇳 | @Raydikalx | FA83EC
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&sid=df7b054cfc29800c&sni=in1.japancase.site#IN 🇮🇳 | @Raydikalx | 0EE023
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#IN 🇮🇳 | @Raydikalx | E43169
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#IN 🇮🇳 | @Raydikalx | 8537A4
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#IN 🇮🇳 | @Raydikalx | A6FE37

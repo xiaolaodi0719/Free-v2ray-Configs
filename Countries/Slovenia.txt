@@ -1,10 +1,10 @@
-#profile-title: @Raydikalx — IRAN (IR)
+#profile-title: @Raydikalx — SLOVENIA (SI)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — IRAN (IR) — 1 configs
+# @Raydikalx — SLOVENIA (SI) — 1 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&security=reality&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&sid=e013fa99a81badcc#SI 🇸🇮 | @Raydikalx | 32CC6B
