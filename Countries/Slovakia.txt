@@ -1,0 +1,13 @@
+#profile-title: @Raydikalx — SLOVAKIA (SK)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — SLOVAKIA (SK) — 4 configs
+# source: verified/ — every config passed a real proxied request in ALL L3 rounds
+# location: GeoIP (DB-IP Country Lite) on the real network address of the server
+# note: this is where the SERVER is, not necessarily where your traffic exits
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.113:443?encryption=none&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#SK 🇸🇰 | @Raydikalx | FE4027
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=&host=e60833x.nl7.h1clayd.click&mode=auto&path=/d20896a4ce30&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&security=reality&sid=2d2598d60447a967&sni=e60833x.nl7.h1clayd.click&type=xhttp#SK 🇸🇰 | @Raydikalx | EEAA2D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?security=reality&encryption=none&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&headerType=none&fp=chrome&type=tcp&sni=5d0319t.nl7.h1clayd.click&sid=361d0dd59c70516f#SK 🇸🇰 | @Raydikalx | 8AF71C
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=grpc&security=reality&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&serviceName=5b79e8a94241#SK 🇸🇰 | @Raydikalx | A2FDA4

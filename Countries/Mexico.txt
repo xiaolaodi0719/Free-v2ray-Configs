@@ -1,0 +1,12 @@
+#profile-title: @Raydikalx — MEXICO (MX)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — MEXICO (MX) — 3 configs
+# source: verified/ — every config passed a real proxied request in ALL L3 rounds
+# location: GeoIP (DB-IP Country Lite) on the real network address of the server
+# note: this is where the SERVER is, not necessarily where your traffic exits
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX 🇲🇽 | @Raydikalx | 321663
+trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&sni=mx001.zestapp778.com&fp=chrome#MX 🇲🇽 | @Raydikalx | 285F2D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=0&sni=mx001.zestapp778.com&type=tcp#MX 🇲🇽 | @Raydikalx | 550EF9
