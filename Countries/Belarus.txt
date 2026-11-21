@@ -1,0 +1,17 @@
+#profile-title: @Raydikalx — BELARUS (BY)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — BELARUS (BY) — 8 configs
+# source: verified/ — every config passed a real proxied request in ALL L3 rounds
+# location: GeoIP (DB-IP Country Lite) on the real network address of the server
+# note: this is where the SERVER is, not necessarily where your traffic exits
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=chrome&mode=auto&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#BY 🇧🇾 | @Raydikalx | 790986
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl5425.shopingggg.ir:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY 🇧🇾 | @Raydikalx | 2EEFA9
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1961.shopingggg.ir:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&fp=chrome&type=xhttp&sni=bl1.nexfile.net#BY 🇧🇾 | @Raydikalx | 78F9A3
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#BY 🇧🇾 | @Raydikalx | 77CE15
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY 🇧🇾 | @Raydikalx | 4395D6
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#BY 🇧🇾 | @Raydikalx | BB53C0
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=none&encryption=none&host=178.172.227.124&type=ws#BY 🇧🇾 | @Raydikalx | 010655
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?flow=xtls-rprx-vision&fp=ios&path=%2F&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY 🇧🇾 | @Raydikalx | 3F1B1B

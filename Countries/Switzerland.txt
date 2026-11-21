@@ -3,10 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — SWITZERLAND (CH) — 3 configs
+# @Raydikalx — SWITZERLAND (CH) — 10 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&sni=www.cloudflare.com#CH 🇨🇭 | @Raydikalx | 15C43B
-vless://12af43c3-84b4-4248-878b-b75f35835487@132.243.162.30:46280?security=reality&encryption=none&pbk=3xEvhIbjIvO9bJSqHEF3D91YZEYaA3fWzb2JpxW0XmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=e53690af52736850#CH 🇨🇭 | @Raydikalx | C4BE05
-vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#CH 🇨🇭 | @Raydikalx | 74B692
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuY0lrdWJtb0RHc2w@208.69.78.133:443#CH 🇨🇭 | @Raydikalx | AEEE60
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH 🇨🇭 | @Raydikalx | 0AC273
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH 🇨🇭 | @Raydikalx | ACB330
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#CH 🇨🇭 | @Raydikalx | 68B652
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@leviko-ch4066.shopingggg.ir:19999#CH 🇨🇭 | @Raydikalx | D3E7C6
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#CH 🇨🇭 | @Raydikalx | A80DAC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@leviko-ch7557.shopingggg.ir:19999#CH 🇨🇭 | @Raydikalx | 5543E4
+vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?security=reality&encryption=none&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.mntw.lol&sid=76d0389e457fcba0#CH 🇨🇭 | @Raydikalx | A5070E
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?encryption=none&security=tls&sni=portal.mavexa.ir&fp=chrome&type=tcp&headerType=none#CH 🇨🇭 | @Raydikalx | A19323
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#CH 🇨🇭 | @Raydikalx | 8433E8

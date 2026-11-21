@@ -1,10 +1,10 @@
-#profile-title: @Raydikalx — ALBANIA (AL)
+#profile-title: @Raydikalx — CYPRUS (CY)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — ALBANIA (AL) — 1 configs
+# @Raydikalx — CYPRUS (CY) — 1 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSWxRaTlqR1BKZDdLSE14Nlk0K0piYU5vV1NXZmUyQTczVTRKNG8wUXJzPQ@130.49.189.158:43558#AL 🇦🇱 | @Raydikalx | A57C6E
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=/media/e1c76c&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#CY 🇨🇾 | @Raydikalx | 772702

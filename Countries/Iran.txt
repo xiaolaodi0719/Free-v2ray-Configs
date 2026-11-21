@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — IRAN (IR) — 1 configs
+# @Raydikalx — IRAN (IR) — 3 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@94.183.164.176:443?encryption=none&type=grpc&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&fp=firefox&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU#IR 🇮🇷 | @Raydikalx | C12062
+vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?mode=gun&security=reality&encryption=none&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub#IR 🇮🇷 | @Raydikalx | 63B499
+vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?encryption=none&type=grpc&serviceName=ebl&mode=multi&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&fm=#IR 🇮🇷 | @Raydikalx | EF1170
