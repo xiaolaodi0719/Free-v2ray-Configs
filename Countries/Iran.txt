@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — IRAN (IR) — 1 configs
+# @Raydikalx — IRAN (IR) — 5 configs
 # source: verified/ — every config passed a real proxied request in ALL L3 rounds
 # location: GeoIP (DB-IP Country Lite) on the real network address of the server
 # note: this is where the SERVER is, not necessarily where your traffic exits
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+vless://a49844f1-3e0e-46b9-a156-d2343a001ece@5.222.47.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc&security=reality&sid=eb11f7630faaaf60&sni=graphs.4cdn.de&type=tcp#IR 🇮🇷 | @Raydikalx | C0F64A
+vmess://eyJ2IjoiMiIsInBzIjoiSVIg8J+HrvCfh7cgfCBAUmF5ZGlrYWx4IHwgRkM5MzMzIiwiYWRkIjoiMTA5Ljk0LjE2NC43NCIsInBvcnQiOiIyMDgwIiwiaWQiOiJiN2UzZThhZi1kMWNhLTQ1ZGEtYTk1Zi04YjlhZDc3Mzk4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwibmV0IjoidGNwIiwicG9ydCI6MjA4MCwicHMiOiJJUiDwn4eu8J+HtyB8IEBSYXlkaWthbHggfCBBODU3OTgiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiJJUiDwn4eu8J+HtyB8IEBSYXlkaWthbHggfCBBODU3OTgifQ==
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:15470?security=none&encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&headerType=none&type=tcp#IR 🇮🇷 | @Raydikalx | 1349F7
+vless://2c2106e0-2c61-40f8-9249-1843bacbb0ae@Ir.wbzo.ir:1240?encryption=mlkem768x25519plus.native.0rtt.Jt4FEz9uYr8jlVSTg70LyzsUF87dLsOhTeKOgA-q938&security=none&type=tcp&headerType=none#IR 🇮🇷 | @Raydikalx | 21660B
